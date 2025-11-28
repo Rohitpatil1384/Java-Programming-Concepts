@@ -31,4 +31,3 @@ class String_3{
         
     }
 }
-//Kirlosk
