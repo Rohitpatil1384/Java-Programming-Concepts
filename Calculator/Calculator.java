@@ -197,4 +197,4 @@ class Calculator{
 >>>>>>> 9f68986bfb87e9c67f9a9f10f25bf59ba7d0d43d
 >>>>>>> 18603e86855f8b8e9e5a5cd550031d96b10ff430
 }
-//Kirlosk//
+
