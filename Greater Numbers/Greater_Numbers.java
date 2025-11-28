@@ -1,5 +1,5 @@
 import java.util.*;
-//Kirlosk
+
 class Greater_Numbers{
     public static void main(String []args){
         

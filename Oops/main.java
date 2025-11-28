@@ -69,5 +69,5 @@ public class Main {
         student.display();
         
         sc.close();
+        }
     }
-}
