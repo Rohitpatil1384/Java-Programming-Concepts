@@ -3,21 +3,20 @@ public class Book {
     String author;
     double price;
 
-    // Default constructor
+    
     Book() {
         title = "Unknown";
         author = "Unknown";
         price = 0.0;
     }
 
-    // Constructor 1: title + author
     Book(String t, String a) {
         title = t;
         author = a;
         price = 0.0;
     }
 
-    // Constructor 2: title + author + price
+    
     Book(String t, String a, double p) {
         title = t;
         author = a;
@@ -42,8 +41,9 @@ public class Book {
         b2.display();
         b3.display();
 
-        // Print using overridden toString()
+       //Rohit
+       
         Book example = new Book("Java", "Author", 500);
-        System.out.println(example); // prints: Book[title=Java, price=500]
+        System.out.println(example); 
     }
 }

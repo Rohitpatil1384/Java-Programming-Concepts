@@ -2,13 +2,13 @@ public class Rectangle {
     int length;
     int breadth;
 
-    // Default constructor
+   
     Rectangle() {
         length = 4;
         breadth = 5;
     }
 
-    // Parameterized constructor
+  
     Rectangle(int l, int b) {
         length = l;
         breadth = b;

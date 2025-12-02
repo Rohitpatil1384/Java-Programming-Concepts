@@ -2,7 +2,7 @@ public class Cylinder {
     private double radius;
     private double height;
 
-    // Setters
+   
     public void setRadius(double r) {
         radius = r;
     }
@@ -11,7 +11,7 @@ public class Cylinder {
         height = h;
     }
 
-    // Getters
+    
     public double getRadius() {
         return radius;
     }
@@ -20,12 +20,11 @@ public class Cylinder {
         return height;
     }
 
-    // Surface area
+    
     public double surfaceArea() {
         return 2 * Math.PI * radius * (radius + height);
     }
 
-    // Volume
     public double volume() {
         return Math.PI * radius * radius * height;
     }
